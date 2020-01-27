@@ -10,7 +10,7 @@
     </parent>
     <groupId>billstein.harald</groupId>
     <artifactId>echo</artifactId>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <version>0.0.1-SNAPSHOT</version>
     <name>echo</name>
     <description>Demo project for Spring Boot</description>
